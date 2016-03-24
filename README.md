@@ -1,2 +1,2 @@
-# prodigy
-Prodigy website 
+Prodigy - a Websie that I started building from the given PSD & PPT
+Let's see how perfect am I in completing this.....
