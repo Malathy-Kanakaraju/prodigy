@@ -8,3 +8,4 @@ Completed the project.  Had a good experience in building this website.  Key fea
 Bootstrap
 fullpage.js - scrollable sections plugin
 Worked on Photoshop for some image edits
+
