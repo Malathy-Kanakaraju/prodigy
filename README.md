@@ -1,5 +1,8 @@
-Prodigy
-a Websie that I started building from the given PSD & PPT
+#  Prodigy
+
+# Preview Demo here - http://prodigy.esy.es/Prodigy-test2/
+
+A Websie that I started building from the given PSD & PPT
 Let's see how perfect am I in completing this.....
 
 
